@@ -13,6 +13,7 @@ You need to have a CLI access to your firewall in order to
 get the benefit of this script.
 
 Requirements: Python 2.7, Kali Linux
+
 ipadd.txt: Edit and input all host IP address
 
 
